@@ -1,0 +1,25 @@
+Skenario pengujian yang akan dilakukan adalah:
+
+1. Menggunakan Metode GET Bertujuan untuk memeriksa apakah response nya Sudah Sesuai 
+dengan apa yang di harapkan yaitu menampilkan list dari user.
+URL : https://altashop-api.fly.dev/api/auth/info
+
+2. Menggunakan Metode POST Bertujuan untuk memeriksa apakah response nya sudah sesuai
+dengan apa yang di harapkan yaitu register berhasil dilakukan oleh seorang user.
+URL : https://altashop-api.fly.dev/api/auth/register
+
+3. Menggunakan Metode POST bertujuan untuk memeriksa apakah response nya sudah sesuai
+dengan apa yang di harapkan yaitu user dapat berhasil Login.
+URL : https://altashop-api.fly.dev/api/auth/login
+
+4. Menggunakan Metode POST bertujuan untuk memeriksa apakah response sudah sesuai dengan apa yang diharapkan yaitu user dapat membuat kategori baru.
+URL : https://altashop-api.fly.dev/api/categories
+
+5. Menggunakan metode GET bertujuan untuk memeriksa apakah response sudah sesuai dengan apa yang diharapkan yaitu user dapat melihat kategori berdasarkan spesifik ID.
+URL : https://altashop-api.fly.dev/api/categories/29699
+
+6. Menggunakan metode GET bertujuan untuk memeriksa apakah response sudah sesuai dengan apa yang diharapkan yaitu user dapat melihat seluruh list kategori.
+URL : https://altashop-api.fly.dev/api/categories
+
+7. Menggunakan metode DEL bertujuan untuk memeriksa apakah response sudah sesuai dengan apa yang diharapkan yaitu user dapat menghapus sebuah kategori.
+URL : https://altashop-api.fly.dev/api/categories/29699
