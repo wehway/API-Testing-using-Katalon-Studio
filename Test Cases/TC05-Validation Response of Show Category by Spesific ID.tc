@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05-Validation Response of Show Category by Spesific ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af9f5479-8a4d-4867-916f-ea146485987c</testCaseGuid>
+</TestCaseEntity>
